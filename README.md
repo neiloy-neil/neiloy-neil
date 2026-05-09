@@ -1,5 +1,7 @@
 <div align="center">
 
+  <!-- GitHub profile README for neiloy-neil -->
+
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,55:0EA5E9,100:22C55E&text=Farhad%20Hossain&fontColor=FFFFFF&fontSize=58&fontAlignY=36&desc=CEO%20%26%20Co-Founder%20%C2%B7%20SEO%20Specialist%20%C2%B7%20Digital%20Marketing%20Expert&descSize=17&descAlignY=58" alt="Farhad Hossain profile banner" width="100%" />
 
   <p>
