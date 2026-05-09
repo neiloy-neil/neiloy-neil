@@ -2,7 +2,7 @@
 
   <!-- GitHub profile README for neiloy-neil -->
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,55:0EA5E9,100:22C55E&text=Farhad%20Hossain&fontColor=FFFFFF&fontSize=58&fontAlignY=36&desc=CEO%20%26%20Co-Founder%20%C2%B7%20SEO%20Specialist%20%C2%B7%20Digital%20Marketing%20Expert&descSize=17&descAlignY=58" alt="Farhad Hossain profile banner" width="100%" />
+  <img src="./assets/profile-banner.svg" alt="Farhad Hossain - CEO and Co-Founder, SEO Specialist, Digital Marketing Expert" width="100%" />
 
   <p>
     <a href="https://farhad-portfolio-two.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-farhad--portfolio-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
@@ -83,12 +83,22 @@ My work connects traffic, leads, customer journeys, and reporting into practical
 
 ## GitHub Activity
 
-<div align="center">
+| GitHub signal | Snapshot |
+| --- | --- |
+| Profile | [github.com/neiloy-neil](https://github.com/neiloy-neil) |
+| Public repositories | 30+ public repositories across portfolio, SaaS, CRM, AI, logistics, and landing page projects |
+| Main build stack | TypeScript, JavaScript, React, Next.js, Tailwind CSS, Node.js |
+| Recent product focus | AI learning tools, portfolio systems, The Digital Dude, TruckerLink, EventsBox, Rentalease |
+| Repository style | Practical business tools, conversion-focused demos, and production-facing web platforms |
 
-  <img src="https://github-readme-stats.vercel.app/api?username=neiloy-neil&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Farhad Hossain GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neiloy-neil&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165" />
+### Active Repository Themes
 
-</div>
+| Theme | Representative work |
+| --- | --- |
+| AI and SaaS | [AI Learning Platform](https://github.com/neiloy-neil/ai-learning-platform), [AI Writing Tool](https://github.com/neiloy-neil/ai-writing-tool), [AI Outreach Architect](https://github.com/neiloy-neil/AI-Outreach-Architect) |
+| Business systems | [TruckerLink](https://github.com/neiloy-neil/TruckerLink), [Inventory Management System](https://github.com/neiloy-neil/Inventory-Management-System), [RMS Platform](https://github.com/neiloy-neil/RMS-platform) |
+| Marketing and conversion | [Digital Marketing Agency](https://github.com/neiloy-neil/digital-marketing-agency), [Conversion Catalyst](https://github.com/neiloy-neil/conversion-catalyst), [Startup MVP Launch Page](https://github.com/neiloy-neil/startup-mvp-launch-page) |
+| Portfolio and agency | [Farhad Portfolio](https://github.com/neiloy-neil/farhad-portfolio), [The Digital Dude](https://github.com/neiloy-neil/The-Digital-Dude), [Elite Portfolio](https://github.com/neiloy-neil/elite-portfolio) |
 
 ## Current Direction
 
@@ -112,7 +122,7 @@ I am open to conversations around SEO strategy, e-commerce growth, CRM systems, 
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0EA5E9,100:22C55E" alt="" width="100%" />
+  <hr />
 
   <sub>SEO, digital strategy, CRM systems, and conversion-focused execution from Bangladesh to global clients.</sub>
 
